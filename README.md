@@ -1,4 +1,4 @@
 # Leetcode-solutions
 Daily leetcode
 <br>
-`Day1=>kadanes:stock,hashmap:twoSum`
+`Day1=>kadanes:stock,hashmap:twoSum,set:Duplicate`
